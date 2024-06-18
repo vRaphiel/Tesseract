@@ -1,0 +1,29 @@
+{
+  "name": "tesseract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vRaphiel/Tesseract.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vRaphiel/Tesseract/issues"
+  },
+  "homepage": "https://github.com/vRaphiel/Tesseract#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "moment": "^2.30.1",
+    "mysql2": "^3.10.1",
+    "sequelize": "^6.37.3",
+    "tesseract.js": "^5.1.0"
+  }
+}
